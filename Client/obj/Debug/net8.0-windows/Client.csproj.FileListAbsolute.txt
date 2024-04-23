@@ -1,0 +1,49 @@
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.Login.resources
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\RoosterLottery.Client.LogInFrm.resources
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+C:\Users\Home\Desktop\New folder\RoosterLottery-master\Client\obj\Debug\net8.0-windows\ConGaTrongLottery.App.RegistrationForm.resources
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Client.exe
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Client.deps.json
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Client.dll
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Client.pdb
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Developer\SourceCode\RoosterLottery\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.Login.resources
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\RoosterLottery.Client.LogInFrm.resources
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\ConGaTrongLottery.App.RegistrationForm.resources
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.dll
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\refint\Client.dll
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.pdb
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\ref\Client.dll
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\ConGaTrongLottery.App.PlayForm.resources
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\ConGaTrongLottery.App.DashboardForm.resources
+E:\Developer\SourceCode\RoosterLottery\Client\obj\Debug\net8.0-windows\ConGaTrongLottery.App.ProfileForm.resources
